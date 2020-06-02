@@ -11,5 +11,5 @@
     <div id="here">
       here
     </div>
-  <p> This server could not be found, please try "here"! <p>
+    <p> This server could not be found, please try <span #here> here </span>! <p>
     </body>
