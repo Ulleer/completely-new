@@ -6,7 +6,7 @@
       color:blue;
       }
     </style>
-  <head>
+  </head>
   <body>
     <p> This server could not be found, please try <span #here> here </span>! </p>
    </body>
