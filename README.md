@@ -2,12 +2,12 @@
   <head>
     <title> Not Found </title>
     <style>
-      #here{
+      .here{
       color:blue;
       }
     </style>
   </head>
   <body>
-    <p> This server could not be found, please try <span #here> here </span>! </p>
+    <p> This server could not be found, please try <span class="here"> here </span> ! </p>
    </body>
 </html>
